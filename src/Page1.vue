@@ -1,6 +1,6 @@
 <template>
 <v-ons-page>
-<div id=app>
+<div id="app">
 <gmap-map
     :center="center"
     :zoom="7"
